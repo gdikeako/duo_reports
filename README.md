@@ -12,7 +12,7 @@ This Python script leverages the Duo Admin API to generate custom reports on adm
 1. Clone this repository:
    ```
    git clone https://github.com/gdikeako/duo_reports.git
-   cd duo-admin-reporting
+   cd duo_reports
    ```
 
 2. Create a virtual environment:
