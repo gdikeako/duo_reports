@@ -1,0 +1,3 @@
+duo-client
+python-dotenv
+rich
